@@ -1,0 +1,5 @@
+{
+  "name": "Simply Finsure Login",
+  "description": "A simple login screen for the Simply Finsure portal, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
